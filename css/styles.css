@@ -10839,6 +10839,7 @@ textarea.form-control-lg {
   border-color: transparent;
   border-radius: .5rem;
   padding: .5rem;
+  align-items: center;
 }
 
 .text-justify {
