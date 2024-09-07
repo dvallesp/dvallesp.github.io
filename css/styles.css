@@ -10845,3 +10845,7 @@ textarea.form-control-lg {
 .text-justify {
   text-align: justify;
 }
+
+.publist li + li {
+  margin-top: 0.5rem;
+}
