@@ -10858,7 +10858,7 @@ textarea.form-control-lg {
   border-radius: 15px;
   font-size: 1.5em;
   white-space: no-wrap;
-
+  font-family: monospace;
 }
 .blinking-cursor {
   display: inline-block;
