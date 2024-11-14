@@ -10865,7 +10865,7 @@ textarea.form-control-lg {
   width: 0.6em;
   height: 1em;
   background-color: #fff;
-  animation: blink 1s steps(1, start) infinite;
+  animation: blink 1s steps(1, start) 5;
   vertical-align: -0.1em;
 }
 @keyframes blink {
