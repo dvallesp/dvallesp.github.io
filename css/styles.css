@@ -10849,3 +10849,26 @@ textarea.form-control-lg {
 .publist li + li {
   margin-top: 0.5rem;
 }
+
+/* */
+.console {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 15px;
+  font-size: 1.5em;
+  white-space: no-wrap;
+
+}
+.blinking-cursor {
+  display: inline-block;
+  width: 0.6em;
+  height: 1em;
+  background-color: #fff;
+  animation: blink 1s steps(1, start) infinite;
+}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
