@@ -10873,3 +10873,17 @@ textarea.form-control-lg {
     opacity: 0;
   }
 }
+
+.second-line {
+  display: inline;
+  font-size: 0.7em; /* Slightly smaller than the first line */
+  white-space: pre-wrap;
+}
+.second-line.green {
+  color: #0f0; /* Green color for "News!" */
+  font-style: italic;
+}
+.second-line.normal {
+  color: #fff; /* Default white color for normal text */
+  font-style: italic;
+}
