@@ -1,7 +1,7 @@
 const text1 = " Hi there! ";
 const text2Green = "News! ";
 //const text2Normal = "In July 2025, I will be joining Università di Bologna as a postdoc within the ERC CoG BELOVED, led by Prof. Annalisa Bonafede. Thrilled to start this new chapter! ";
-const text2Normal = "As of July 2025, I have joined Università di Bologna as a postdoc in the group of Prof. Annalisa Bonafede. ";
+const text2Normal = "As of November 2025, I have started a new position at Università di Bologna as a postdoc (Contrattista di Ricerca) in the ERC-founded group BELOVED of Prof. Annalisa Bonafede. ";
 const consoleElement = document.getElementById("console");
 let i = 0; // Counter for the first line
 let j = 0; // Counter for the green part of the second line
